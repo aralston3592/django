@@ -1,6 +1,6 @@
 from django.shortcuts import render, redirect, get_object_or_404
 from .models import Item
-from todo.forms import Itemform
+from .forms import Itemform
 # Create your views here.
 
 
